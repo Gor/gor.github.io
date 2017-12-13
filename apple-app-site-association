@@ -5,7 +5,11 @@
       {
         "appID": "FHEBHP5Z6X.ru.corp.mamsy",
         "paths": [
-          "/cart/*"
+          "/cart/*",
+          "/brands/*",
+          "/pregnant-landing/*",
+          "/order/*",
+          "/customer/*"
         ]
       }
     ]
