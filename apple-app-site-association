@@ -9,7 +9,20 @@
           "/brands/*",
           "/pregnant-landing/*",
           "/order/*",
-          "/customer/*"
+          "/customer/*",
+          "/bestsellers/*",
+          "/category/*",
+          "/categories/*",
+          "/product/*",
+          "/babies/*",
+          "/girls/*",
+          "/boys/*",
+          "/female/*",
+          "/male/*",
+          "/forhome/*",
+          "/kids/*",
+          "/unisex/*",
+          "/u/*"
         ]
       }
     ]
